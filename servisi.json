@@ -11,22 +11,22 @@
     "SecurityTray": {
       "download_x64": "https://www.croso.gov.rs/storage/files/eusluge/SecurityTrayInstaller_x64.zip",
       "download_x86": "https://www.croso.gov.rs/storage/files/eusluge/SecurityTrayInstaller_x86.zip",
-      "verzija": null
+      "verzija": 1.3.0
     },
     "NexU APR": {
       "download_x64": "https://dl.apr.gov.rs/NexU-APR(x64).exe",
       "download_x86": "https://dl.apr.gov.rs/NexU-APR.exe",
-      "verzija": null
+      "verzija": 2.06
     },
     "ePIA (LPA)": {
       "download_x64": "https://lpa.gov.rs/jisportal/assets/epia_instalacija.exe?t=260429",
       "download_x86": "https://lpa.gov.rs/jisportal/assets/epia_instalacija.exe?t=260429",
-      "verzija": null
+      "verzija": 1.15
     },
     "eUprava Potpis": {
       "download_x64": "https://euprava.gov.rs/media/Instalacije/ePotpis/EupravaRSDigitalSignature_x64.msi",
       "download_x86": "https://euprava.gov.rs/media/Instalacije/ePotpis/EupravaRSDigitalSignature_x86.msi",
-      "verzija": null
+      "verzija": 1.0
     }
   },
 
