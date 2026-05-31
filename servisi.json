@@ -67,7 +67,7 @@
     "KZO čitač (zdravstvena kartica)": {
       "download_x64": "https://rfzo.rs/download/kzo/down_sekcija/citac_x64.zip",
       "download_x86": "https://rfzo.rs/download/kzo/down_sekcija/citac_x86.zip",
-      "verzija": "2.0"
+      "verzija": "2"
     },
     "WCS (zdravstvena kartica)": {
       "download_x64": "https://rfzo.rs/download/kzo/down_sekcija/WCS%201.3.4%2064-bit.zip",
