@@ -155,7 +155,7 @@
   "app": {
     "verzija": "1.1",
     "url": "https://github.com/eservisisrbija/eservisi-app/releases/download/v1.1/eServisi.exe",
-    "sha256": "2b573751b3ba6a03f78690c029825a0e046668d56eead077c807d6447c9584e1",
+    "sha256": "adea389ad991834df2237bd9833753a964a6dbbe2b6726641cc4dd665178b521",
     "obavezno": false,
     "napomena": "Nova verzija"
   }
