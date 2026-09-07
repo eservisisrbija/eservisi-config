@@ -77,7 +77,7 @@
     "Čelik (lična karta)": {
       "download_x64": "https://crl.mup.gov.rs/Celik%201.4.2.1%20(64-bit).msi",
       "download_x86": "https://crl.mup.gov.rs/Celik%201.4.2.1%20(32-bit).msi",
-      "verzija": "1.4.210",
+      "verzija": "1.4.201",
       "sha256_x64": "4bde4970e90346413e69a60e7f8e0745720bbd83252073cc30b173a230c17293",
       "sha256_x86": "1956e639f8040cc54efda8927a4f2b1e838382750bd86fb506cd114f72912b8b"
     },
