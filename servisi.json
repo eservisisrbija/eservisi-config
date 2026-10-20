@@ -159,7 +159,7 @@
   "app": {
     "verzija": "1.31",
     "url": "https://github.com/eservisisrbija/eservisi-app/releases/download/v1.31/eServisi.exe",
-    "sha256": "a423f587cf9281869e7ad25ba082e2dd33701eb36aaceaaed9c3956bccd03579",
+    "sha256": "2b4821ee873063f9e1e9e576dd663c16af87ac4948474b673a374252ae98f6bb",
     "obavezno": true,
     "napomena": "Ažuriranje 20.10.2026"
   }
