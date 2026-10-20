@@ -131,11 +131,13 @@
       "sha256_x86": "4a4350a59fe6933084f8e08f7f69faab864b6401f3ad6b679d5622971b5d2bbe"
     },
     "Office Banking Desktop": {
-      "download_x64": "https://fileflow.24x7.rs/public.php/dav/files/ZfzkHPT7SC37rN2/?accept=zip",
-      "download_x86": "https://fileflow.24x7.rs/public.php/dav/files/ZfzkHPT7SC37rN2/?accept=zip",
-      "verzija": "1.2026.50430.0",
-      "sha256_x64": "bf2316b80a4a0457e981061a3d2bf86bc975a37f1c9b566df5ea96bb9c3f8f0d",
-      "sha256_x86": "bf2316b80a4a0457e981061a3d2bf86bc975a37f1c9b566df5ea96bb9c3f8f0d"
+      "download_x64": "https://fileflow.24x7.rs/public.php/dav/files/FoGG9iQNyDwFs7J/?accept=zip",
+      "download_x86": "https://fileflow.24x7.rs/public.php/dav/files/FoGG9iQNyDwFs7J/?accept=zip",
+      "verzija": "1.2026.50922.0",
+      "sha256_x64": "976293adef3ada15ace5877cb36cf33b18ecf37d8c7ae42003dd02b220e1e0fd",
+      "sha256_x86": "976293adef3ada15ace5877cb36cf33b18ecf37d8c7ae42003dd02b220e1e0fd",
+      "velicina_x64": 891359464,
+      "velicina_x86": 891359464
     },
     "OTP Biznis e-bank": {
       "download_x64": "https://ebank.otpbanka.rs/CorporateLauncerV4App/OTP_Biznis_e-bank_windows-x32_1_1.exe",
@@ -145,18 +147,20 @@
       "sha256_x86": "e5c681a2215e090b30d3a3528114fcffc89b9f65a338072b9b3786bc2ada6120"
     },
     "Raiffeisen Online Biznis": {
-      "download_x64": "https://help.raiffeisenbank.rs/wp-content/uploads/88Win_RZB-1-1.zip",
-      "download_x86": "https://help.raiffeisenbank.rs/wp-content/uploads/88Win_RZB-1-1.zip",
+      "download_x64": "https://help.raiffeisenbank.rs/wp-content/uploads/2Win_RZB-3.zip",
+      "download_x86": "https://help.raiffeisenbank.rs/wp-content/uploads/2Win_RZB-3.zip",
       "verzija": "1.4",
-      "sha256_x64": "d6218c152faac4877a56f1876607e2ed53637dce32dea369b933c6365043c5c8",
-      "sha256_x86": "d6218c152faac4877a56f1876607e2ed53637dce32dea369b933c6365043c5c8"
+      "sha256_x64": "298f967bdbebf0ce84036bdaee7929d62d413289cc42084b46cc1392c42fce0f",
+      "sha256_x86": "298f967bdbebf0ce84036bdaee7929d62d413289cc42084b46cc1392c42fce0f",
+      "velicina_x64": 166619710,
+      "velicina_x86": 166619710
     }
   },
   "app": {
-    "verzija": "1.30",
-    "url": "https://github.com/eservisisrbija/eservisi-app/releases/download/v1.30/eServisi.exe",
-    "sha256": "a9097795d620b8166a75f50725b2a1100b92893977960b1680845a48801e4519",
+    "verzija": "1.31",
+    "url": "https://github.com/eservisisrbija/eservisi-app/releases/download/v1.31/eServisi.exe",
+    "sha256": "a423f587cf9281869e7ad25ba082e2dd33701eb36aaceaaed9c3956bccd03579",
     "obavezno": true,
-    "napomena": "Ažuriranje 19.10.2026"
+    "napomena": "Ažuriranje 20.10.2026"
   }
 }
