@@ -160,10 +160,10 @@
     }
   },
   "app": {
-    "verzija": "1.31",
-    "url": "https://github.com/eservisisrbija/eservisi-app/releases/download/v1.31/eServisi.exe",
-    "sha256": "a423f587cf9281869e7ad25ba082e2dd33701eb36aaceaaed9c3956bccd03579",
+    "verzija": "1.32",
+    "url": "https://github.com/eservisisrbija/eservisi-app/releases/download/v1.32/eServisi.exe",
+    "sha256": "f6eefa568a1aaecd090f7d1b12a08e84d2c431be1119b45c6fadfdf6d5b0d870",
     "obavezno": true,
-    "napomena": "Ažuriranje 20.10.2026"
+    "napomena": "Ažuriranje 26.11.2026"
   }
 }
