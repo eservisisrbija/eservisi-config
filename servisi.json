@@ -17,9 +17,11 @@
     "SecurityTray": {
       "download_x64": "https://www.croso.gov.rs/storage/files/eusluge/SecurityTrayInstaller_x64.zip",
       "download_x86": "https://www.croso.gov.rs/storage/files/eusluge/SecurityTrayInstaller_x86.zip",
-      "verzija": "1.3.0",
-      "sha256_x64": "673c02a23a3c1381ceabb32626ac571b316d6feda7670b432aec054ed60a67db",
-      "sha256_x86": "edddc1c6e807b42e084b1ac5f7d76d37e88ff1ae21573292f4e62dcae0dd7337"
+      "verzija": "1.3.3",
+      "sha256_x64": "c10a287fcce35d1c7b1239820177766626fd2becf9a8ada6818db8a6e81286c1",
+      "sha256_x86": "edddc1c6e807b42e084b1ac5f7d76d37e88ff1ae21573292f4e62dcae0dd7337",
+      "velicina_x64": 56510261,
+      "velicina_x86": 54090916
     },
     "NexU APR": {
       "download_x64": "https://dl.apr.gov.rs/NexU-APR(x64).exe",
@@ -159,7 +161,7 @@
   "app": {
     "verzija": "1.31",
     "url": "https://github.com/eservisisrbija/eservisi-app/releases/download/v1.31/eServisi.exe",
-    "sha256": "2b4821ee873063f9e1e9e576dd663c16af87ac4948474b673a374252ae98f6bb",
+    "sha256": "a423f587cf9281869e7ad25ba082e2dd33701eb36aaceaaed9c3956bccd03579",
     "obavezno": true,
     "napomena": "Ažuriranje 20.10.2026"
   }
